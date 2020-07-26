@@ -5,7 +5,7 @@ this project detect face &amp; eye blink if it detect 2 eye blink of same person
 first install all requiremenets mention in requirements.txt
 
 ## Create dataset:
-run dataset.py and press 'c' to capture pic when your face detect and 'q' to destroy
+run face_store_data.py and press 'c' to capture pic when your face detect and 'q' to destroy
 
 ## Train:
 run train.py this will create yml file with all weight.
